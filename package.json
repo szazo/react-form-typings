@@ -1,0 +1,8 @@
+{
+  "name": "@types/react-form",
+  "version": "3.3.5",
+  "description": "Type definitions for react-form",
+  "author": "Zoltan Szarvas",
+  "license": "MIT",
+  "types": "./index.d.ts"
+}
